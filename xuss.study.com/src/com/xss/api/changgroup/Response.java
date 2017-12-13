@@ -1,11 +1,9 @@
-package com.xss.bean;
-
-import java.util.List;
+package com.xss.api.changgroup;
 
 /**
- * Created by Holiday on 2017/11/28.
+ * Created by Holiday on 2017/12/3.
  */
-public class Data {
+public class Response {
     private Head head;
     private Body body;
 
